@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Registro HTML" skipped="0" tests="1" time="10.59" timestamp="2023-05-19 06:28:41"><testcase name="Happy Path Registro"><error type="net.serenitybdd.core.exceptions.UnrecognisedException"/><system-err>null&#13;
+com.bdd.step.basicHTMLSteps.seleccionMultipleChecBox(basicHTMLSteps.java:57)&#13;
+com.bdd.stepdefinitions.basicHTMLstepdefinitions.ingresoMisDatos(basicHTMLstepdefinitions.java:28)&#13;
+✽.ingreso mis datos(src/test/resources/basicHTML.feature:9)&#13;
+</system-err></testcase></testsuite>
