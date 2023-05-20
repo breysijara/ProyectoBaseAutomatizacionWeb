@@ -11,7 +11,7 @@ import org.junit.runner.RunWith;
         junit = {"--step-notifications"},
         features = {"src/test/resources"},
         glue = {"com.bdd"},
-        tags = {"@LoginGmail"}
+        tags = {"@basic"}
 )
 public class runner {
 }
