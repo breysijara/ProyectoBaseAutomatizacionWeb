@@ -30,3 +30,6 @@
 
     @FindBy(xpath = "//h3[contains(.,'MARKETING')]")
     WebElement nombreRebateMKT;
+
+
+    inputNPromotores.sendKeys(Keys.SPACE);
